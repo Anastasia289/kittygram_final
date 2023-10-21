@@ -42,6 +42,8 @@ JS
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg)
 
+[![Main Kittygram workflow](https://github.com/Anastasia289/kittygram_final/actions/workflows/main.yml/badge.svg)](https://github.com/Anastasia289/kittygram_final/actions/workflows/main.yml)
+
 ## Автор: 
    
 Анастасия Богданова   
