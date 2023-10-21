@@ -2,9 +2,7 @@ name: Main Kittygram workflow
 
 on:
   push:
-    branches:
-      - main
-
+if: github.ref_name == 'master'
 jobs:
   tests:
     runs-on: ubuntu-latest
